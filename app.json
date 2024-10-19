@@ -15,15 +15,15 @@
     "success_url": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
     "env": {
         "API_ID": {
-            "description": "Your APP ID",
+            "description": "21862845",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash",
+            "description": "8966ba448a3c20b184cc509c33ffd4c4",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "7853772974:AAFafgR-Bz_MUYD_eyNIKnppPwewtvYhnfg",
             "value": ""
         },
         "CHAT_ID": {
